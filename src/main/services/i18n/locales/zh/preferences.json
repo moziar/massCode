@@ -1,0 +1,47 @@
+{
+  "title": "偏好设置",
+  "storage": {
+    "label": "存储位置",
+    "migrate": "导入",
+    "count": "统计"
+  },
+  "editor": {
+    "label": "编辑器",
+    "fontSize": "字体大小",
+    "fontFamily": "字体",
+    "wrap": {
+      "label": "换行",
+      "wordWrap": "自动换行",
+      "off": "无"
+    },
+    "tabSize": "Tab大小",
+    "showInvisibles": "显示编辑标记",
+    "highlightLine": "高亮选中行",
+    "highlightGutter": "高亮行数指示器",
+    "prettier": {
+      "label": "Prettier",
+      "trailingComma": {
+        "label": "尾后逗号",
+        "none": "无",
+        "all": "全部添加",
+        "es6": "ES6"
+      },
+      "semi": "Semi",
+      "singleQuote": "单引号"
+    }
+  },
+  "appearance": {
+    "label": "外观",
+    "theme": {
+      "label": "主题",
+      "light": "亮色",
+      "dark": "暗色"
+    }
+  },
+  "language": {
+    "label": "语言",
+    "en": "English",
+    "ru": "Русский",
+    "zh": "中文"
+  }
+}

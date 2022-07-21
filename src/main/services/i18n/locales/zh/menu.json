@@ -1,0 +1,67 @@
+{
+  "app": {
+    "label": "massCode",
+    "preferences": "偏好设置",
+    "update": {
+      "label": "检查更新....",
+      "message": "新版本 {{newVersion}} 已经可以下载。\n当前版本为 {{oldVersion}}。",
+      "button": ["跳转到Github", "确定"],
+      "noUpdate": "目前已经是最新版本。"
+    },
+    "quit": "退出massCode",
+    "about": "关于massCode",
+    "hide": "隐藏massCode",
+    "hideOther": "隐藏其他",
+    "showAll": "全部显示"
+  },
+  "help": {
+    "label": "帮助",
+    "website": "主页",
+    "documentation": "文档",
+    "viewInGitHub": "在GitHub页面查看",
+    "changeLog": "更新日志",
+    "reportIssue": "提交issue",
+    "giveStar": "在GitHub上给Star",
+    "extension": {
+      "vscode": "VS Code插件",
+      "raycast": "Raycast插件",
+      "alfred": "Alfred插件"
+    },
+    "donate": {
+      "openCollective": "在Open Collective捐助",
+      "payPal": "通过PayPal捐助"
+    },
+    "twitter": "推特",
+    "devTools": "切换开发人员工具"
+  },
+  "file": {
+    "label": "文件",
+    "find": "查找"
+  },
+  "view": {
+    "label": "视图",
+    "sortBy": {
+      "label": "排序方式",
+      "dateModified": "修改时间",
+      "dateCreated": "创建时间",
+      "name": "名称"
+    }
+  },
+  "edit": {
+    "label": "编辑",
+    "undo": "撤销",
+    "redo": "恢复",
+    "cut": "剪切",
+    "copy": "复制",
+    "paste": "粘贴",
+    "delete": "删除",
+    "selectAll": "全选"
+  },
+  "editor": {
+    "label": "编辑器",
+    "copy": "复制片段到剪切板",
+    "format": "格式化",
+    "previewMarkdown": "Markdown预览模式",
+    "previewCode": "代码预览模式",
+  }
+}

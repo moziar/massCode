@@ -48,6 +48,11 @@ const options = [
   {
     label: i18n.t('preferences:language.ru'),
     value: 'ru'
+  },
+
+  {
+    label: i18n.t('preferences:language.zh'),
+    value: 'zh'
   }
 ]
 

@@ -1,0 +1,12 @@
+{
+  "deleteConfirm": "你确定要永久删除{{name}}吗？",
+  "deleteConfirmMultipleSnippets": "你确定要永久删除选中的{{count}}个片段吗？",
+  "noUndo": "这个操作是不可撤销的。",
+  "allSnippetsMoveToTrash": "当前目录下的所有片段都将会被移动到回收站。",
+  "deleteTag": "将会从所有片段中删除该标签。",
+  "emptyTrash": "你确定要永久删除回收站中的所有片段吗？",
+  "migrateConfirm": [
+    "你确定要从{{name}}导入吗？",
+    "导入以后，当前库将会被覆盖。"
+  ]
+}

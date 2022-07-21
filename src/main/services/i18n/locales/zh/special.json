@@ -1,0 +1,24 @@
+{
+  "description": {
+    "storage": "要使用iCloud云盘、谷歌云盘或者Dropbox，只需要将存储位置设置为对应云盘的本地同步位置即可。",
+    "migrate": {
+      "1": "选择包含数据库文件的文件夹，来从massCode v1.0进行导入。",
+      "2": "选择JSON文件来从SnippetsLab导入。",
+      "3": [
+        "从SnippetsLab导入会有以下不足：",
+        "由于JSON文件(v2.1以下)无法处理文件夹层级，所有文件夹都将保存在根目录。",
+        "使用未受编程语言的片段将会被设置为纯文本。"
+      ]
+    },
+    "htmlCssPreview": "使用HTML和CSS添加fragments来查看结果。"
+  },
+  "success": {
+    "migrate": "数据库导入成功。"
+  },
+  "error": {
+    "folderNotContainDb": "在文件夹中找不到 \"db.json\"。"
+  },
+  "unsponsored": "未捐助",
+  "supportMessage": "你好， 我是Anton 👋<br><br>\n感谢使用massCode。如果你觉得这个软件好用，请 {{-tagStart}} 捐助 {{-tagEnd}}。这将激励我持续为这个项目进行努力。",
+  "snippetsShowcase": "片段陈列"
+}
